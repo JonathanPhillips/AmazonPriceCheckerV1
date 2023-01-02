@@ -1,2 +1,2 @@
 # AmazonPriceCheckerV1
-Python script to tracker items in Amazon
+Python script to track items in Amazon
